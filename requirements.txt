@@ -1,7 +1,0 @@
-streamlit
-streamlit-option-menu
-streamlit-authenticator
-pyyaml
-scikit-learn
-pandas
-numpy
