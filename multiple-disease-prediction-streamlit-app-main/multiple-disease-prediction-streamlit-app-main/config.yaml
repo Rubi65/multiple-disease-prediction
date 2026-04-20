@@ -1,0 +1,10 @@
+credentials:
+  usernames:
+    rubi:
+      email: odritajahan6@gmail.com
+      first_name: Odrita
+      last_name: Jahan
+      logged_in: false
+      password: $2b$12$P/nUkPHzpc7tioPOYYU98O5f3xl5160v8ig09sZ3wvMeph/Oq/jdm
+      password_hint: 062965
+      roles: null
