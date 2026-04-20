@@ -24,12 +24,10 @@ This is a comprehensive healthcare solution developed using **Machine Learning**
 ├── requirements.txt     # List of dependencies
 └── README.md            # Project documentation
 ⚙️ Installation & Local Setup
-Clone the repository:
+Clone the Repository:
 
 Bash
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-cd your-repo-name
-
+git clone https://github.com/Rubi65/multiple-disease-prediction.git
 
 Install Dependencies:
 Bash
@@ -40,8 +38,11 @@ Bash
 streamlit run app.py
 
 
-🌐 Deployment
-This project is optimized for deployment on Streamlit Cloud. To host it, push the code to GitHub and connect your repository to the Streamlit Cloud dashboard.
+🌐 Deployment:
+## 🚀 Deployment
+The application is successfully deployed and live on **Streamlit Cloud**.
+
+**Live App Link:** https://multiple-disease-prediction-gkzrtg2fnolxwbq7av9rgb.streamlit.app/
 
 📚 Acknowledgements & References
 This project is a combination of guided learning and custom development:
