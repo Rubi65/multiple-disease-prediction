@@ -27,8 +27,7 @@ This is a comprehensive healthcare solution developed using **Machine Learning**
 Clone the repository:
 
 Bash
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-cd your-repo-name
+https://github.com/Rubi65/multiple-disease-prediction/tree/main/multiple-disease-prediction-streamlit-app-main/multiple-disease-prediction-streamlit-app-main
 
 
 Install Dependencies:
