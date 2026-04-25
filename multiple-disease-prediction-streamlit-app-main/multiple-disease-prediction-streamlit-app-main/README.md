@@ -24,10 +24,13 @@ This is a comprehensive healthcare solution developed using **Machine Learning**
 ├── requirements.txt     # List of dependencies
 └── README.md            # Project documentation
 ⚙️ Installation & Local Setup
-Clone the repository:
 
-Bash
-https://github.com/Rubi65/multiple-disease-prediction/tree/main/multiple-disease-prediction-streamlit-app-main/multiple-disease-prediction-streamlit-app-main
+Clone the repository:https://github.com/Rubi65/multiple-disease-prediction/tree/main/multiple-disease-prediction-streamlit-app-main/multiple-disease-prediction-streamlit-app-main
+My project presentation Video Demonstration link:https://drive.google.com/file/d/1adUMJ1S19Pw0hlmaMef5v66gUP2_yPSz/view?usp=sharing
+
+Live Application (Streamlit Cloud): The application is successfully deployed and can be accessed via any web browser. It provides a real-time interface for disease prediction.
+Link: https://multiple-disease-prediction-ypcnungtandnn4cntn95ru.streamlit.app/
+
 
 
 Install Dependencies:
